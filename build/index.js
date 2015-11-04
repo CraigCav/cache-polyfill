@@ -1,1 +1,1 @@
-self.cachesPolyfill = require('../lib/caches.js');
+if(!window.caches) window.caches = require('../lib/caches.js');
