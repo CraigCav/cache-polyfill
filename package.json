@@ -4,6 +4,7 @@
   "description": "Cache polyfill for the ServiceWorker",
   "main": "cache.js",
   "scripts": {
+    "build": "gulp",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
